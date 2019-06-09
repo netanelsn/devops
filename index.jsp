@@ -66,7 +66,7 @@ String stormrunner = request.getParameter("stormrunner");
 		  <div class="page-header">
 			<h1>Useful links by category.</h1>
 		  </div>
-		  yeah
+		  
 		  <div class="row">
 				<div class="col-md-8">
 					<p class="lead">Please select at least one category:</p>
