@@ -6,7 +6,7 @@ String selenium = request.getParameter("selenium");
 String stormrunner = request.getParameter("stormrunner");
 %>
 <!DOCTYPE html>
-yeah
+
 
 <html lang="en">
   <head>
